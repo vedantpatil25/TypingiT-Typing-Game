@@ -1,7 +1,5 @@
-Typing champ
+# Typing champ
+## visit site : https://typingt-by-vedant.netlify.app/
 
-A sentence will come up on the screen and you need to type these before they get out from the screen.
-Keep on typing the sentence and boost your score. This app is a typing tutor for you to boost your typing skills. Best typing app for users who like brain and puzzle games. Lets increase your skills for typing a large collection of English sentences. Smart spelling will come on your screen, type exact spellings to score high
-Stack Used:  HTML, CSS and JS
- 
-[Screenshot](./Images/Typing champ.jpg)
+A sentence will appear on the screen, and you will have 15 seconds to enter it.
+Continue entering the sentence to raise your score. This programme is a typing instructor that can help you improve your typing abilities.
