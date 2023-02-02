@@ -1,0 +1,95 @@
+body{
+    background-image: linear-gradient(rgb(228, 139, 115), rgb(156, 42, 222));
+    font-family: "Signika", sans-serif;
+
+}    
+
+.inner__container{
+    background-color: black;
+    margin-left: 90px;
+    margin-right: 90px;
+    border-radius: 30px;
+}
+
+
+#label{
+    height: 35px;
+
+}
+
+#para{
+    align-content: center;
+    justify-content: center;
+    font-size: 25px;
+    text-align: center;
+    color: rgb(255, 0, 0);
+    border: 10px;
+    border-color: steelblue;
+    background-image: linear-gradient(to right, rgb(180, 54, 52) , rgb(0, 102, 255));
+    box-shadow: 0px 1px 4px 0px rgba(128, 164, 18, 0.639);
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 30px;
+    position: relative;
+    bottom: 60px;
+    border-radius: 30px;
+}
+
+#currentword{
+    font-size: 35px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+#label{
+    margin: o auto;
+}
+#timer{
+
+    font-size: 30px;
+    color:white;   
+    text-align: center;
+}
+#sc{
+
+    font-size: 30px;
+    color: white;
+    
+    text-align: center;
+}
+#ins{
+    color:black;
+    text-align: center;
+    font-size: large;
+}
+#p{
+    color:black;
+    text-align: center;
+}
+
+#message{
+    color: rgba(255, 132, 0, 0.703);
+}
+#time{
+    color: crimson;
+}
+#score{
+    color: crimson;
+}
+
+.title__img
+{
+    margin-left: 50px;
+    position: relative;
+    bottom: 40px;
+    height: 125px;
+}
+.input__check{
+    width: auto;
+    font-family: 'Courier New', Courier, monospace;
+}
+.top__instruction{
+    color: rgb(60, 232, 223);
+}
+.sec__num{
+    color: rgb(0, 0, 0);
+}
