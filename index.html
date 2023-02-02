@@ -1,5 +1,9 @@
 <html>
   <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <link rel="stylesheet" type="text/css" href="style.css" />
     <title>Typing test</title>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
@@ -12,10 +16,31 @@
   <body>
 
     <img class="title__img" src="/Images/my-TypingiT_.png" alt="" />
-
+    <div class="area" >
+      <ul class="circles">
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+              <li></li>
+      </ul>
+        </div>
     <div id="container">
         <div class="inner__container">
       <div id="para">
+
+
+
+
+
+
+
+
         <p class="top__instruction">
           Type the Following sentence within <span class="sec__num" id="number"></span>15</span> Seconds
         </p>
@@ -23,12 +48,20 @@
         <input type="text" class="input__check" id="label" placeholder="Start Typing..." autofocus />
         <h3 id="message"></h3>
       </div>
-      </div>
+
+
+
+  </div >
+
+
+
       <div id="timer">
-        <h4>Time Left: <span id="time"> 0</span></h4>
+        <h4 class="time__left">Time Left: <span id="time"> 0</span></h4>
         <h5 id="sc">Your Score: <span id="score"> 0</span></h5>
       </div>
       <script src="script.js"></script>
     </div>
   </body>
+
 </html>
+
